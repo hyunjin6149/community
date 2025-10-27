@@ -11,7 +11,7 @@ export default function NotfoundScreen() {
           <Text>Go to home screen</Text>
         </Link>
       </View>
-    </> // 👈 Fragment 닫기 추가
+    </>
   );
 }
 
