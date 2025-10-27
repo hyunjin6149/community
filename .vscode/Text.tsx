@@ -1,3 +1,4 @@
+console.log("");
 import { StyleSheet, View } from "react-native";
 
 interface TextProps {}
@@ -9,4 +10,3 @@ const Text = ({}: TextProps) => {
 const styles = StyleSheet.create({});
 
 export default Text;
-console.log("");
